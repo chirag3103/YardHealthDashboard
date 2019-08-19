@@ -18,3 +18,6 @@ This file returns a json which consists of yard analytics which can be used by a
 
 Yard.java
 The constructor for this class consists the lines of code which help you choose the type of db you wanna use.
+
+Process to execute.
+Simply run the BusinessLogic.java and look out on the console for the output.
